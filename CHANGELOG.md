@@ -1,8 +1,10 @@
 ## Unreleased
 
+## v0.1.1 (2026-01-27)
+
 ### Other changes
 
-- updated history and changelog (473d23b)
+- updated history and changelog (4461a03)
 - merge branch 'fix-history-patch-1' into fix-history-main (897f196)
 
 ## v0.1.0 (2026-01-27)

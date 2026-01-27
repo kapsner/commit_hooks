@@ -2,7 +2,6 @@
 
 This repo provides commit hooks for the troi-lab working group.
 
-
 ## Check Commit-Message [stage: commit-msg]
 
 Check if commit message is valid with respect to [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).
@@ -24,7 +23,6 @@ Generates a CHANGELOG.md from commit messages, that are formatted according to [
   hooks:
     - id: recreate-changelog
 ```
-
 
 ## Version Bumper [stages: post-commit / pre-push]
 

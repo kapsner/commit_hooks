@@ -1,5 +1,9 @@
 ## Unreleased
 
+### Bug Fixes
+
+- typo in environment-variable in pre-push hook (3129740)
+
 ## v0.1.1 (2026-01-27)
 
 ### Other changes
